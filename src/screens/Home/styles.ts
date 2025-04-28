@@ -19,5 +19,8 @@ export const styles = StyleSheet.create({
         borderRadius: 16,
         marginTop: 24,
         marginBottom: 20,
+        alignItems: 'center',
+        justifyContent: 'space-between',
     },
+    input: {},
 });  
